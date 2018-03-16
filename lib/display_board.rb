@@ -1,8 +1,8 @@
  def display_board
-      puts  = "   |   |   \n"
-      expected_output += "-----------\n"
-      expected_output += "   |   |   \n"
-      expected_output += "-----------\n"
-      expected_output += "   |   |   \n"
+      puts "   |   |   "
+      puts += "-----------"
+      puts += "   |   |   "
+      puts += "-----------"
+      puts += "   |   |   "
  end
   
