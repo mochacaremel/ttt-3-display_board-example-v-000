@@ -1,4 +1,5 @@
  def display_board
-    puts  = "   |   |   "
+      put  = "   |   |   \n"
+      expected_output += "   |   |   \n"
  end
   
